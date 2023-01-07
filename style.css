@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+    margin-top: 0;
+}
+
+h1, p{
+    color: black;
+    font-weight: normal;
+}
+
+h1 {
+    font-size: 50px;
+    margin-top: 70px;
+}
+
+a {
+    color: aqua;
+}
+
+span {
+    color: aqua;
+    font-weight: bold;
+}
+
+  
+#footer {
+    margin-top: 200px;
+}
+
+#footer a + a {
+    margin-left: 40px;
+}
+
+.line {
+    height: 0px;
+    width: 500px;
+    border: 1px solid aqua;
+    margin: auto;
+    margin-bottom: 12px;
+}
+
+#balls {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
+
+
+
+
